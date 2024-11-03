@@ -67,3 +67,22 @@ The weather API response might look like this (for current weather):
     "speed": 4.6
   }
 }
+```
+
+### **Submission Guidelines**
+
+- Please submit a link to a public repository with your solution.
+- Ensure all instructions are in `README.md` for setup and usage.
+- Provide explanations for any unique design or architectural choices in your solution.
+
+---
+
+### Evaluation Criteria
+This challenge will help evaluate a candidate’s ability to:
+
+- Work with APIs and handle asynchronous data fetching
+- Display and manage dynamic data from user inputs
+- Organize components effectively with reusable code
+- Handle errors gracefully and create a polished, responsive design
+
+Good luck, and we look forward to reviewing your solution!
